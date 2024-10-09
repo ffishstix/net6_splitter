@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net6Splitter", "net6Splitter.csproj", "{F32981BC-0C63-4FBD-B9A8-251B3CDEA6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32981BC-0C63-4FBD-B9A8-251B3CDEA6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32981BC-0C63-4FBD-B9A8-251B3CDEA6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32981BC-0C63-4FBD-B9A8-251B3CDEA6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32981BC-0C63-4FBD-B9A8-251B3CDEA6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E406A8E-91A6-4E3E-9DC6-940F9E6CA96F}
+	EndGlobalSection
+EndGlobal

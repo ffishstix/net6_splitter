@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\finla\\OneDrive - Exeter College\\git\\net6_splitter\\net6Splitter\\net6Splitter.csproj": {}
+    "C:\\ffishstix\\net6_splitter\\net6Splitter\\net6Splitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\finla\\OneDrive - Exeter College\\git\\net6_splitter\\net6Splitter\\net6Splitter.csproj": {
+    "C:\\ffishstix\\net6_splitter\\net6Splitter\\net6Splitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\finla\\OneDrive - Exeter College\\git\\net6_splitter\\net6Splitter\\net6Splitter.csproj",
+        "projectUniqueName": "C:\\ffishstix\\net6_splitter\\net6Splitter\\net6Splitter.csproj",
         "projectName": "net6Splitter",
-        "projectPath": "C:\\Users\\finla\\OneDrive - Exeter College\\git\\net6_splitter\\net6Splitter\\net6Splitter.csproj",
+        "projectPath": "C:\\ffishstix\\net6_splitter\\net6Splitter\\net6Splitter.csproj",
         "packagesPath": "C:\\Users\\finla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\finla\\OneDrive - Exeter College\\git\\net6_splitter\\net6Splitter\\obj\\",
+        "outputPath": "C:\\ffishstix\\net6_splitter\\net6Splitter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Diagnostics.PerformanceCounter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

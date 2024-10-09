@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("net6Splitter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e8acc5e1d0ad6f4f42f974bedd23193867caaaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42f90c125a7a6598786746282fccc313fbf1ce02")]
 [assembly: System.Reflection.AssemblyProductAttribute("net6Splitter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("net6Splitter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

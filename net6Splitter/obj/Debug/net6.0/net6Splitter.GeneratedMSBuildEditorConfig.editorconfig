@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = net6Splitter
-build_property.ProjectDir = C:\Users\finla\OneDrive - Exeter College\git\net6_splitter\net6Splitter\
+build_property.ProjectDir = C:\ffishstix\net6_splitter\net6Splitter\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
